@@ -2,8 +2,6 @@ The next major version (2.2.0) is developed in the main branch.
 
 The last stable version is available in the [2.1.x](https://github.com/xland/ScreenCapture/tree/2.1.x) branch.
 
-![](./doc/banner.png)
-
 ## Features（特性）
 
 English:
@@ -90,24 +88,6 @@ The hotkey is Ctrl+Alt+A
 ```
 - Double Click the `.ahk` file,then you can start the `ScreenCapture.exe` by press `Ctrl+Alt+A`.
 - The `.ahk` script will be executed when the system startup.
-
-
-## Sponsorship（赞助）
-
-
-<img src="./doc/alipay.jpg" style="width:160px;height:160px;" /><br />
-alipay(支付宝支付)
-
-
-<img src="./doc/wechat.png" style="width:160px;height:160px;" /><br />
-wechat(微信支付)
-
-
-## Author（作者）
-
-<img src="./doc/author.jpg" style="width:160px;height:160px;" />
-
-Author's Wechat QR code（作者微信）
 
 Whether there is any topic to talk about, whether it is related to this product or not, I am very happy to meet you.
 
